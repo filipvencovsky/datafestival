@@ -19,3 +19,9 @@ Původní dataset z https://archive.ics.uci.edu/ml/datasets/Sentiment+Labelled+S
 Výsledný soubor určený pro práci v KNIME [data_sentiment.csv](data_sentiment.csv). 
 
 Sentiment nebyl klasifikován pro texty složené z více vět. Takové řádky obsahují kód _E_vety_ namísto označení a hodnoty sentimentu.
+
+## Výstupy z analytické dílny
+
+Prezentace [Data&Emoce.pdf](Data&Emoce.pdf)
+
+Workflow z KNIME [data_emoce.knwf](data_emoce.knwf)
